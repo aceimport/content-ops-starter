@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Eladó domain
+      text: A marketingstudio.hu domain eladó domain
       color: text-dark
       type: TitleBlock
     subtitle: marketingstudio.hu
