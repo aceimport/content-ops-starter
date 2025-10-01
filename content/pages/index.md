@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: marketingstudio.hu
     text: |+
-      # Ár:  100.000,- Ft
+      # Árajánlatot:  100.000,- Ft
 
     actions: []
     media:
