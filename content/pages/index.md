@@ -7,7 +7,7 @@ sections:
       text: A marketingstudio.hu domain eladó!
       color: text-dark
       type: TitleBlock
-    subtitle: Tegyen ajánlatot! aasdasd
+    subtitle: Küldje el ajánlatát a mobillevelezes@gmail.com e-mail címre.
     text: |+
       # Induló ár:  100.000,- Ft
 
