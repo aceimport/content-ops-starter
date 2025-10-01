@@ -1,7 +1,6 @@
 {
-    "favicon": "/images/favicon.svg",
     "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "enableAnnotations": false
 }
