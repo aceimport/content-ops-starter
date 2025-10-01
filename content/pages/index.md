@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Tegyen ajánlatot!
     text: |+
-      # Árajánlatot:  100.000,- Ft
+      # Induló ár:  100.000,- Ft
 
     actions: []
     media:
