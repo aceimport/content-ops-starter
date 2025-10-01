@@ -27,6 +27,10 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
