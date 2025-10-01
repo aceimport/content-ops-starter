@@ -7,7 +7,7 @@ sections:
       text: A marketingstudio.hu domain eladó!
       color: text-dark
       type: TitleBlock
-    subtitle: Tegyen ajánlatot!
+    subtitle: Tegyen ajánlatot! aasdasd
     text: |+
       # Induló ár:  100.000,- Ft
 
