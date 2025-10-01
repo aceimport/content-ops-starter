@@ -1,5 +1,4 @@
 {
-    "favicon": "/images/favicon.svg",
     "titleSuffix": "Theme Demo",
     "type": "Config",
     "header": "content/data/header.json",
