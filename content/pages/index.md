@@ -29,9 +29,7 @@ sections:
           - pr-16
     badge:
       type: Badge
-      label: >-
-        Marketingesként a legjobban megyjegyezhető, informatív domain nevet
-        keresed?
+      label: ''
       color: text-primary
 seo:
   metaTitle: Home - Demo site
