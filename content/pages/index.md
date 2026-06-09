@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Küld el árajánlatod a mobillevelezes@gmail.com e-mail címre.
     text: |+
-      # Induló ár:  100.000,- Ft
+      # Ár:  100.000,- Ft
 
     actions: []
     media:
